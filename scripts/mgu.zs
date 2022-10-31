@@ -1,0 +1,2 @@
+recipes.addShapeless(<mob_grinding_utils:gm_chicken_feed>, [<minecraft:wheat_seeds>,<mob_grinding_utils:mob_swab:1>.withTag({mguMobName: "minecraft:chicken"}),<openblocks:xp_bucket>]);
+recipes.addShapeless(<mob_grinding_utils:gm_chicken_feed>, [<minecraft:wheat_seeds>,<mob_grinding_utils:mob_swab:1>.withTag({mguMobName: "minecraft:chicken"}),<actuallyadditions:item_solidified_experience> * 4]);
