@@ -1,0 +1,28 @@
+Please report bugs to the issue tracker!!
+
+v1.10 - Added recipe for Cobalt and Ardite ambers from Sky Orchards.
+Added recipe to craft Matter Overdrive Tritanium Dust from Iron Dust, Steel Dust, and Diamond Dust.
+-------------------------------------------------------
+v1.09 - Fixed recipe for Tinker's Item Rack
+Fixed drying recipe for vines from Jungle sapling.
+-------------------------------------------------------
+v1.08 - Fixed recipes after breaking them in 1.07 (my bad).
+Added Fluix recipe.
+Added recipes for GM Chicken Feed from Mob Grinding Utils.
+Added Sky Orchards Redstone Amber to Tinker's Melting.
+-------------------------------------------------------
+v1.07 - Recipe fixes for Slimy Grass, Slime Saplings, and AA Rice.
+-------------------------------------------------------
+v1.06 - Config Fixes
+-------------------------------------------------------
+v1.05 - Recipe Fixes
+-------------------------------------------------------
+v1.04 - Added recipe for Compressed Crook and edited some AE2 recipes.
+-------------------------------------------------------
+v1.03 - Added WAILA Harvestability
+-------------------------------------------------------
+v1.02 - Added Storage Drawers, Iron Chests, and Chameleon
+-------------------------------------------------------
+v1.01 - Small update to add inventory/chest sorting and fix some recipes
+-------------------------------------------------------
+v1.00 - Initial Release of Third Peril Perilous Skies Modpack
