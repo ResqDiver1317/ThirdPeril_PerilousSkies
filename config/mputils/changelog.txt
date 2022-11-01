@@ -9,7 +9,8 @@ Edited Surge Config to fix Golden Lasso not working properly.
 Edited Sponge and CatClearLag settings to allow for more passive mob spawning
 Removed Primitive Crafting mod due to multiple complaints.
 Added CarryOn mod to better facilitate moving animals/etc... around.
-Changed the MPUtils Changelog feature to draw directly from GitHub.
+Changed the MPUtils Changelog feature to draw directly from GitHub when viewing Change Log with the Escape Menu.
+Changed MPUtils Bug Report link to point to GitHub instead of Google Form when using the Report Bug feature when in the Escape Menu.
 -------------------------------------------------------
 v1.09 - Fixed recipe for Tinker's Item Rack
 Fixed drying recipe for vines from Jungle sapling.
