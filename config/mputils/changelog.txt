@@ -7,6 +7,7 @@ Enabled AE2 In World Fluix creation (Charged Certus, Redstone, and Nether Quartz
 Added Tin and Alum to Sand Diamond Mesh.
 Edited Surge Config to fix Golden Lasso not working properly.
 Edited Sponge and CatClearLag settings to allow for more passive mob spawning
+Removed Primitive Crafting mod due to multiple complaints.
 -------------------------------------------------------
 v1.09 - Fixed recipe for Tinker's Item Rack
 Fixed drying recipe for vines from Jungle sapling.
