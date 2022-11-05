@@ -35,6 +35,15 @@
         ]
       },
       {
+      "__comment": "This will allow Compressed Sand to be sifted in a Heavy Sieve into 9x the rewards of normal sand.",
+      "name": "ExUtils2:CompressedSand",
+      "metadata": "1",
+      "type": "generate",
+      "source": "minecraft:sand",
+      "sourceMetadata": "*",
+      "sourceCount": 9
+    },
+      {
         "name": "",
         "metadata": "*",
         "type": "generate",
