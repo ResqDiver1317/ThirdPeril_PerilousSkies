@@ -8,5 +8,5 @@ Sieve.addDiamondMeshRecipe(<minecraft:dirt>, <xlfoodmod:vanilla_flower>, 0.06);
 Sieve.addDiamondMeshRecipe(<minecraft:dirt>, <xlfoodmod:grass>, 0.06);
 Sieve.addStringMeshRecipe(<minecraft:dirt>, <xlfoodmod:vanilla_flower>, 0.02);
 Sieve.addStringMeshRecipe(<minecraft:dirt>, <xlfoodmod:grass>, 0.02);
-Sieve.addStringMeshRecipe(<minecraft:gravel>, <<xlfoodmod:salt>>, 0.02);
-Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <<xlfoodmod:salt>>, 0.08);
+Sieve.addStringMeshRecipe(<minecraft:gravel>, <xlfoodmod:salt>, 0.02);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <xlfoodmod:salt>, 0.08);
