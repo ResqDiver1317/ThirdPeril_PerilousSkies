@@ -104,3 +104,4 @@ mods.tconstruct.Casting.addBasinRecipe(<thermalfoundation:glass_alloy:5>, <minec
 mods.tconstruct.Casting.addBasinRecipe(<thermalfoundation:glass_alloy:6>, <minecraft:obsidian>, <liquid:lumium>, 144, true, 160);
 mods.tconstruct.Casting.addBasinRecipe(<thermalfoundation:glass_alloy:7>, <minecraft:obsidian>, <liquid:enderium>, 144, true, 160);
 mods.tconstruct.Casting.addBasinRecipe(<minecraft:glowstone>, null, <liquid:glowstone>, 1000, true, 160);
+mods.tconstruct.Casting.addBasinRecipe(<mekanism:basicblock>, null, <liquid:osmium>, 1296, true, 200);
