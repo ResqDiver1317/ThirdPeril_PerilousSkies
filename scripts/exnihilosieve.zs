@@ -4,3 +4,9 @@ Sieve.addDiamondMeshRecipe(<ore:sand>, <exnihilocreatio:item_ore_aluminium>, 0.1
 Sieve.addDiamondMeshRecipe(<ore:sand>, <exnihilocreatio:item_ore_tin>, 0.15);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <minecraft:glowstone_dust>, 0.13);
 Sieve.addDiamondMeshRecipe(<exnihilocreatio:block_dust>, <minecraft:blaze_powder>, 0.10);
+Sieve.addDiamondMeshRecipe(<minecraft:dirt>, <xlfoodmod:vanilla_flower>, 0.06);
+Sieve.addDiamondMeshRecipe(<minecraft:dirt>, <xlfoodmod:grass>, 0.06);
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <xlfoodmod:vanilla_flower>, 0.02);
+Sieve.addStringMeshRecipe(<minecraft:dirt>, <xlfoodmod:grass>, 0.02);
+Sieve.addStringMeshRecipe(<minecraft:gravel>, <<xlfoodmod:salt>>, 0.02);
+Sieve.addDiamondMeshRecipe(<minecraft:gravel>, <<xlfoodmod:salt>>, 0.08);
