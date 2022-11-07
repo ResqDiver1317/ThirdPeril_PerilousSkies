@@ -33,5 +33,5 @@
 <ore:woodCauldron>.add(<morecauldrons:spruce_cauldron>);
 
 //Custom Cauldron Recipes
-mods.inspirations.Cauldron.addFluidRecipe(<forge:bucketfilled>.withTag({FluidName: "blueslime", Amount: 1000}), <tconstruct:edible:1>, <liquid:milk>, 1, true);
-mods.inspirations.Cauldron.addFluidRecipe(<forge:bucketfilled>.withTag({FluidName: "purpleslime", Amount: 1000}), <tconstruct:edible:2>, <liquid:milk>, 1, true);
+mods.inspirations.Cauldron.addFluidRecipe(<forge:bucketfilled>.withTag({FluidName: "blueslime", Amount: 1000}), <tconstruct:edible:1>, <liquid:milk>, 1, false);
+mods.inspirations.Cauldron.addFluidRecipe(<forge:bucketfilled>.withTag({FluidName: "purpleslime", Amount: 1000}), <tconstruct:edible:2>, <liquid:milk>, 1, false);
