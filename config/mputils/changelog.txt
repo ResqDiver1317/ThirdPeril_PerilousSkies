@@ -1,5 +1,18 @@
 Please report bugs to the issue tracker!!
 
+v1.12 - MULTIPLE FIXES AND EDITS TO RECIPES AND CONFIG:
+Added the ability to sieve gravel, sand, and dust to obtain Blizz Powder, Blitz Powder, and Basalz Powder.
+Added recipes to craft Blizz, Blitz, and Basalz powder into their respective rods.
+Added the ability to sieve dirt to obtain Grass and Vanilla for XL Food Mod.
+Added the ability to sieve gravel to obtain Salt for XL Food Mod.
+Added recipes to craft XL Food Mod Grass and Vanilla plants.
+Added Tinkers Casting Basin recipe for Osmium Blocks.
+Added Cauldron recipes to obtain blue and purple slime buckets using milk and the respective slime ball.
+Added Glowstone Dust and Blaze Powder to sieve recipe to Dust Diamond Sieve.
+Added Aluminum and Tin to Diamond mesh for Heavy Sieve.
+Added Mod "EqualDragons" to resolve issue with ender dragons not dropping eggs.
+Reset Dimension, Deep Dark, to facilitate the world generation of Certus and Charged Certus ore that was set in the AE2 config in update 1.10.
+-------------------------------------------------------
 v1.11 - Emergency Fix due to incorrect recipe updates for Sieves.
 -------------------------------------------------------
 v1.10 - Added recipe for Cobalt and Ardite ambers from Sky Orchards.
