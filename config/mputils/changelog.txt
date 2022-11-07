@@ -12,6 +12,7 @@ Added Glowstone Dust and Blaze Powder to sieve recipe to Dust Diamond Sieve.
 Added Aluminum and Tin to Diamond mesh for Heavy Sieve.
 Added Mod "EqualDragons" to resolve issue with ender dragons not dropping eggs.
 Reset Dimension, Deep Dark, to facilitate the world generation of Certus and Charged Certus ore that was set in the AE2 config in update 1.10.
+New animation from MartyMunch on the Forge/Mojang Loading Screen.
 -------------------------------------------------------
 v1.11 - Emergency Fix due to incorrect recipe updates for Sieves.
 -------------------------------------------------------
