@@ -29,3 +29,15 @@ furnace.addRecipe(<sky_orchards:acorn_coal:1>, <sky_orchards:acorn_coal>);
 furnace.addRecipe(<sky_orchards:acorn_clay:1>, <sky_orchards:acorn_clay>);
 furnace.addRecipe(<sky_orchards:acorn_cottonwood:1>, <sky_orchards:acorn_cottonwood>);
 furnace.addRecipe(<fluxnetworks:flux>, <minecraft:redstone>);
+
+//Add SkyOrchards Amber to Smelt to Ingots
+furnace.addRecipe(<minecraft:iron_ingot>, <sky_orchards:amber_iron>);
+furnace.addRecipe(<minecraft:gold_ingot>, <sky_orchards:amber_gold>);
+furnace.addRecipe(<thermalfoundation:material:131>, <sky_orchards:amber_lead>);
+furnace.addRecipe(<mekanism:ingot:5>, <sky_orchards:amber_copper>);
+furnace.addRecipe(<mekanism:ingot:6>, <sky_orchards:amber_tin>);
+furnace.addRecipe(<thermalfoundation:material:130>, <sky_orchards:amber_silver>);
+furnace.addRecipe(<thermalfoundation:material:133>, <sky_orchards:amber_nickel>);
+furnace.addRecipe(<tconstruct:ingots:1>, <sky_orchards:amber_ardite>);
+furnace.addRecipe(<tconstruct:ingots>, <sky_orchards:amber_cobalt>);
+furnace.addRecipe(<mekanism:ingot:1>, <sky_orchards:amber_osmium>);
