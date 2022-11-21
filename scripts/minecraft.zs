@@ -30,4 +30,7 @@ recipes.addShaped(<minecraft:name_tag>, [[null, <minecraft:string>, <minecraft:s
 recipes.addShaped(<minecraft:mob_spawner>, [[<deepmoblearning:pristine_matter_zombie>, <minecraft:nether_star>, <deepmoblearning:pristine_matter_skeleton>], [<minecraft:egg>, <minecraft:obsidian>, <minecraft:egg>], [<deepmoblearning:pristine_matter_creeper>, <darkutils:shulker_pearl>, <deepmoblearning:pristine_matter_spider>]]);
 recipes.addShaped(<minecraft:dye> * 4, [[<deepmoblearning:living_matter_overworldian>, <minecraft:waterlily>]]);
 recipes.addShapeless(<minecraft:waterlily> * 4, [<deepmoblearning:living_matter_overworldian>, <minecraft:vine>]);
+
+//Add Sponge Recipe for issue 26
+recipes.addShaped(<minecraft:sponge>, [[null, <ore:blockWool>, null], [<ore:blockWool>, <ore:dyeYellow>, <ore:blockWool>], [null, <ore:blockWool>, null]]);
 //File End
