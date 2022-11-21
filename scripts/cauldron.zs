@@ -33,5 +33,7 @@
 <ore:woodCauldron>.add(<morecauldrons:spruce_cauldron>);
 
 //Custom Cauldron Recipes
+//https://docs.blamejared.com/1.12/es/Mods/Modtweaker/Inspirations/Handlers/Cauldron
+//mods.inspirations.Cauldron.addFluidRecipe(<forge:bucketfilled>.withTag({FluidName: "SETNAMEHERE", Amount: 1000}), <ItemToDropInCauldron>, <liquid:FluidCauldronIsFilledWith>, 1, false);
 mods.inspirations.Cauldron.addFluidRecipe(<forge:bucketfilled>.withTag({FluidName: "blueslime", Amount: 1000}), <tconstruct:edible:1>, <liquid:milk>, 1, false);
 mods.inspirations.Cauldron.addFluidRecipe(<forge:bucketfilled>.withTag({FluidName: "purpleslime", Amount: 1000}), <tconstruct:edible:2>, <liquid:milk>, 1, false);
